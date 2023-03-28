@@ -9,13 +9,9 @@
 
 - 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHMS**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/juetguna.in/raunak-nag/home](https://sites.google.com/juetguna.in/raunak-nag/home)
-
 - 📝 I regularly write articles on [https://itsraunak2002.hashnode.dev/](https://itsraunak2002.hashnode.dev/)
 
 - 📫 How to reach me **itsraunak2002@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WNrJZ1TOslQzGdKoEgJ-AXaKCNz3cUlj/view?usp=sharing](https://drive.google.com/file/d/1WNrJZ1TOslQzGdKoEgJ-AXaKCNz3cUlj/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny**
 
