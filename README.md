@@ -36,3 +36,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raunak2024&" alt="raunak2024" /></p>
 
+## SNAKE EATING CONTRIBUTION GRAPH
+![snake gif](https://github.com/Raunak2024/Raunak2024/blob/output/github-contribution-grid-snake.gif)
